@@ -8,8 +8,9 @@ Table of Contents
 
 *Python-driven market analysis for a Singapore fitness studio, leveraging Google Trends and YouTube data to identify global fitness trends, peak demand periods, and strategic product insights.*
 
-Description of Project 1.
-Project 2: Product Management
+**Project 2:**  [**Investigating Netflix Movies**](https://github.com/mohammed-249/Business_Analytics/tree/main/Investigating%20Netflix%20Movies)
+
+*Explore Netflix movie trends using Python, analyzing 'netflix_data.csv' to validate if movie durations are decreasing. Visualize insights on release years and contributing factors.*
 
 Description of Project 2.
 Project 3: Retail Data Pipeline
