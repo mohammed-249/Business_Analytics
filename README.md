@@ -4,7 +4,9 @@ Welcome to my Business Analytics Projects repository! Here, I present a collecti
 Table of Contents
 
 # Projects
-Project 1: Market Analysis
+**Project 1:**  [**Data Driven Product Management: Conducting a Market Analysis**](https://github.com/mohammed-249/Business_Analytics/tree/main/Data%20Driven%20Product%20Management%3A%20Conducting%20a%20Market%20Analysis)
+
+*Python-driven market analysis for a Singapore fitness studio, leveraging Google Trends and YouTube data to identify global fitness trends, peak demand periods, and strategic product insights.*
 
 Description of Project 1.
 Project 2: Product Management
