@@ -12,14 +12,11 @@ Table of Contents
 
 *Explore Netflix movie trends using Python, analyzing 'netflix_data.csv' to validate if movie durations are decreasing. Visualize insights on release years and contributing factors.*
 
-Description of Project 2.
-Project 3: Retail Data Pipeline
+Project 3:
 
-Description of Project 3.
-Project 4: Financial Reports
+Project 4:
 
-Description of Project 4.
-Project 5: More Projects
+Project 5:
 
 # Skills Demonstrated
 
